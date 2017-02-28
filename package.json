@@ -1,0 +1,27 @@
+{
+    "name": "theme-icehunter",
+    "displayName": "Icehunter's Theme",
+    "description": "My own syntax theme.",
+    "version": "0.0.1",
+    "publisher": "Icehunter",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Icehunter/theme-icehunter"
+    },
+    "bugs": {
+        "url": "https://github.com/Icehunter/theme-icehunter/issues"
+    },
+    "contributes": {
+        "themes": [{
+            "label": "Icehunter",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Icehunter.tmTheme"
+        }]
+    }
+}
