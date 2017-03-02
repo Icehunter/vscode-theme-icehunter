@@ -1,4 +1,8 @@
 
+0.1.2 / 2017-03-01
+==================
+- Forgot readme links
+
 0.1.1 / 2017-03-01
 ==================
 - Add screenshot, adjust repo name
