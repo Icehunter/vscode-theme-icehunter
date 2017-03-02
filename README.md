@@ -1,6 +1,10 @@
 # README
 ## This is the README for "theme-icehunter"
 
+[![Version](http://vsmarketplacebadge.apphb.com/version/Icehunter.theme-icehunter.svg)](https://marketplace.visualstudio.com/items?itemName=Icehunter.theme-icehunter)
+[![Installs](http://vsmarketplacebadge.apphb.com/installs/Icehunter.theme-icehunter.svg)](https://marketplace.visualstudio.com/items?itemName=Icehunter.theme-icehunter)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/Icehunter.theme-icehunter.svg)](https://marketplace.visualstudio.com/items?itemName=Icehunter.theme-icehunter)
+
 This is my own desires on theme style.
 
 ## Screenshot:
